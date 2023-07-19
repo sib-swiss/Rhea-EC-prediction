@@ -1,0 +1,11 @@
+models/*
+experiments/*
+figures/*
+predictions/*
+data/*
+*.png
+*.txt
+*.tsv
+.ipynb_checkpoints/*
+
+
